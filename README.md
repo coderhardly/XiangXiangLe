@@ -1,2 +1,2 @@
 # XiangXiangLe
-基于asp.net mvc下的电扇网站
+基于asp.net mvc下的电商网站
